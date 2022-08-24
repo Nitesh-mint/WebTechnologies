@@ -2,5 +2,3 @@
 
 **Learning Web technologies.
 **
-https://forthebadge.com/generator/?plabel=Learn+By&slabel=Doing
-
