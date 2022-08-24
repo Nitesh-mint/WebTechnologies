@@ -1,1 +1,1 @@
-Learning Web technologies as a BCA Student.
+Learning Web technologies.
