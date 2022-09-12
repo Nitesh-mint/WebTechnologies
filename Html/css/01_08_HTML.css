@@ -1,0 +1,11 @@
+h1{
+    color: red;
+    font-size: 45px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+p{
+    font-size: 25px;
+    color: purple;  
+}
