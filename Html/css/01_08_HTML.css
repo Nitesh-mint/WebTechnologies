@@ -3,9 +3,17 @@ h1{
     font-size: 45px;
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
+    background-color: blue;
+    padding: 60px;
 }
 
 p{
     font-size: 25px;
-    color: purple;  
+    color: purple;
+    padding: 45px   ;  
+}
+
+div{
+    text-align: center;
+    font-size: 30px;
 }
