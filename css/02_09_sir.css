@@ -1,0 +1,37 @@
+p.error{
+    color:red;
+    border:2px solid blue;
+    text-align: center;
+    font-size:23px;
+    letter-spacing: 1px;
+    word-spacing: 1.6px;
+    padding:0px 25px 25px 0 px;
+}
+
+#different{
+    color:aqua;
+}
+
+body{
+    background-color: lightblue;
+    padding: 0px 15px;
+}
+
+ul li{
+    font-size:29px;
+    list-style: circle;
+    align-items: right;
+}   
+ul li a{
+    text-decoration: none;
+}
+
+ul li a:hover{
+    color:red;
+    font-size:30px;
+}
+
+#java:hover{
+    color:aqua;
+    font-size: 23px;
+}
