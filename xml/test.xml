@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<school>
+    <student>
+        <id>1</id>
+        <name>Nitesh </name>
+    </student>
+    <student>
+        <id>2</id>
+        <name>Kumar</name>
+    </student>
+</school>
