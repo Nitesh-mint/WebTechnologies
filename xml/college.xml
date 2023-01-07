@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<college>
+    <student>
+        <firstname>Nitesh</firstname>
+        <lastname>Raya</lastname>
+        <contact>9841160687</contact>
+        <email>nitesh.raya058@gamil.com</email>
+        <address>
+            <city>Damak</city>
+            <state>Jhapa</state>
+            <pin>8989</pin>
+        </address>
+    </student>
+    <student>
+        <firstname>Kushal</firstname>
+        <lastname>Darnal</lastname>
+        <contact>98347343</contact>
+        <email>kushal@gmail.com</email>
+        <address>
+            <city>Ilam</city>
+            <state>ilam</state>
+            <pin>2347843</pin>
+        </address>
+    </student>
+</college>

@@ -1,0 +1,10 @@
+<!-- catalog with product, name,description,price and manufacturer -->
+<?xml version="1.0" ?>
+<catalog>
+    <product>
+        <name>Fair And Lovely </name>
+        <description>Fari and lovely is a product to enhance beauty of wamnes </description>
+        <price>100</price>
+        <manufacturer> Dove </manufacturer>
+    </product>
+</catalog>
