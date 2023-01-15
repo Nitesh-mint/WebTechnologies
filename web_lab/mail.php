@@ -7,4 +7,5 @@
 
     //using mail function
     mail($to,$subject,$message,[$headers],[$parameter]);
+    echo"sent succesfully";
 ?>
