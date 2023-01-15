@@ -1,0 +1,14 @@
+<!-- contact list with name,phone no,email, -->
+<?xml version="1.0"?>
+<!DOCTYPE contact [
+<!ELEMENT contact (name,phone,email)>
+<!ELEMENT name(#PCDATA)>
+<!ELEMENT phone(#PCDATA)>
+<!ELMEMNT email(#PCDATA)>
+]>
+
+<contact>
+    <name>Nitesh</name>
+    <phone>989898989</phone>
+    <email>nit@gmail.com</email>
+</contact>
