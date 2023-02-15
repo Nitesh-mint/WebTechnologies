@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!DOCTYPE Address [
+<!ELEMENT Address (Name, Company, Phone)>
+<!ELEMENT Name (#PCDATA)>
+<!ELEMENT Company (#PCDATA)>
+<!ELEMENT Phone (#PCDATA)>
+]>
+<Address>
+    <Name>Nitesh</Name>
+    <Company>Google</Company>
+    <Phone>98989</Phone>
+
+    <Name>John</Name>
+    <Company>Microsoft</Company>
+    <Phone>989898</Phone>
+</Address>

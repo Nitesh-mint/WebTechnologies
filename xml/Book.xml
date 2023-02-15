@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<!DOCTYPE Book[
+<!ELEMENT Book (author, publication, Title, price, pages)>
+<!ELEMENT publication (#PCDATA)>
+<!ELEMENT Title (#PCDATA)>
+<!ELEMENT pages (#PCDATA)>
+<!ELEMENT author (FirstName+, LastName, Education)+>
+<!ELEMENT FirstName (#PCDATA)>
+<!ELEMENT LastName (#PCDATA)>
+<!ELEMENT Education (#PCDATA)>
+]>
+
+<Book>
+    <author>
+            <FirstName>Nitesh</FirstName>
+            <LastName>Raya</LastName>
+            <Education>Masters</Education>
+    </author>
+    <publication>Asmita</publication>
+    <Title> How to Love the right way </Title>
+    <price> $1.99 </price>
+    <pages>200</pages>
+</Book>
