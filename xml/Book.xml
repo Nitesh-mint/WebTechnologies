@@ -4,12 +4,11 @@
 <!ELEMENT publication (#PCDATA)>
 <!ELEMENT Title (#PCDATA)>
 <!ELEMENT pages (#PCDATA)>
-<!ELEMENT author (FirstName+, LastName, Education)+>
+<!ELEMENT author (FirstName, LastName, Education)>
 <!ELEMENT FirstName (#PCDATA)>
 <!ELEMENT LastName (#PCDATA)>
 <!ELEMENT Education (#PCDATA)>
 ]>
-
 <Book>
     <author>
             <FirstName>Nitesh</FirstName>
